@@ -1,0 +1,8 @@
+/Users/arakhimzhanova/CucumberB14/FrameWorkFromScratchB14/src/test/java/com/test/openmrs/runners/Runner.java
+/Users/arakhimzhanova/CucumberB14/FrameWorkFromScratchB14/src/test/java/com/test/openmrs/stepdefinitions/Hook.java
+/Users/arakhimzhanova/CucumberB14/FrameWorkFromScratchB14/src/test/java/utils/ConfigReader.java
+/Users/arakhimzhanova/CucumberB14/FrameWorkFromScratchB14/src/test/java/utils/BrowserUtils.java
+/Users/arakhimzhanova/CucumberB14/FrameWorkFromScratchB14/src/test/java/com/test/openmrs/stepdefinitions/LoginStepDef.java
+/Users/arakhimzhanova/CucumberB14/FrameWorkFromScratchB14/src/test/java/utils/DriverHelper.java
+/Users/arakhimzhanova/CucumberB14/FrameWorkFromScratchB14/src/test/java/com/test/openmrs/pages/LoginPage.java
+/Users/arakhimzhanova/CucumberB14/FrameWorkFromScratchB14/src/test/java/com/test/openmrs/runners/ReRunner.java

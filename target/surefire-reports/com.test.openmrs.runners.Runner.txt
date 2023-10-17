@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.test.openmrs.runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 40.483 s <<< FAILURE! - in com.test.openmrs.runners.Runner
+Testing the login positive and negative functionalities.Validating the successful login for OpenMrs  Time elapsed: 9.812 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Home]> but was:<[Login]>
+
